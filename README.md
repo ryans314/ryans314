@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 ## My Projects
 
-### [FocusReader](https://focusreader-jlkm.onrender.com/): 
+### [FocusReader](https://focusreader-jlkm.onrender.com/)
 An E-Reader platform that seeks to provide improved accessibility features, robust annotaiton tools, and focus aids. Live at https://focusreader-jlkm.onrender.com/landing
    -  Developed individually over the course of ~4 weeks for a class on Software Design (6.1040).
    -  The application utilizes novel software design techniques developed at MIT's CSAIL ([Concept Design](https://dspace.mit.edu/handle/1721.1/106499))
    -  Development was aided by AI coding tools (Both Copilot and a command line tool created by instructors for the class) at the behest of course staff.
-### [Cooked!](https://icooked.onrender.com/): 
+
+### [Cooked!](https://icooked.onrender.com/)
 A recipe creation and sharing platform that seeks to improve ease of cooking and reduce food waste. Live at https://icooked.onrender.com/
    -  Developed in a team of 4 over the course of ~4 weeks for Software Design
    -  Also conducted needfinding interviews at the start of the project and user testing + next steps for iterative development at the end of the project.
