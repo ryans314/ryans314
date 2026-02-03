@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm Ryan (he/they)** - I'm a senior at MIT studying CS, Engineering, and Biology. I focus primarily on full-stack development, but also have a soft spot for design and front-end work. I believe in using software and technology to make the world a better place - whether that's through aiding activism and social reform, supporting education and public services, or even just bringing joy to people in an otherwise difficult time. 
+**I'm Ryan** - I'm a senior at MIT studying CS, Engineering, and Biology. I focus primarily on full-stack development, but also have a soft spot for design and front-end work. I believe in using software and technology to make the world a better place - whether that's through aiding activism and social reform, supporting education and public services, or even just bringing joy to people in an otherwise difficult time. 
 
 ## My Projects
 
